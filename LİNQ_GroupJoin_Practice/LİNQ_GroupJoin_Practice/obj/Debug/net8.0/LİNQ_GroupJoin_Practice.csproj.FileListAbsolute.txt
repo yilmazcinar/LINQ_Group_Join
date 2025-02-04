@@ -1,0 +1,14 @@
+C:\Users\caplo\source\repos\LİNQ_GroupJoin_Practice\LİNQ_GroupJoin_Practice\bin\Debug\net8.0\LİNQ_GroupJoin_Practice.exe
+C:\Users\caplo\source\repos\LİNQ_GroupJoin_Practice\LİNQ_GroupJoin_Practice\bin\Debug\net8.0\LİNQ_GroupJoin_Practice.deps.json
+C:\Users\caplo\source\repos\LİNQ_GroupJoin_Practice\LİNQ_GroupJoin_Practice\bin\Debug\net8.0\LİNQ_GroupJoin_Practice.runtimeconfig.json
+C:\Users\caplo\source\repos\LİNQ_GroupJoin_Practice\LİNQ_GroupJoin_Practice\bin\Debug\net8.0\LİNQ_GroupJoin_Practice.dll
+C:\Users\caplo\source\repos\LİNQ_GroupJoin_Practice\LİNQ_GroupJoin_Practice\bin\Debug\net8.0\LİNQ_GroupJoin_Practice.pdb
+C:\Users\caplo\source\repos\LİNQ_GroupJoin_Practice\LİNQ_GroupJoin_Practice\obj\Debug\net8.0\LİNQ_GroupJoin_Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caplo\source\repos\LİNQ_GroupJoin_Practice\LİNQ_GroupJoin_Practice\obj\Debug\net8.0\LİNQ_GroupJoin_Practice.AssemblyInfoInputs.cache
+C:\Users\caplo\source\repos\LİNQ_GroupJoin_Practice\LİNQ_GroupJoin_Practice\obj\Debug\net8.0\LİNQ_GroupJoin_Practice.AssemblyInfo.cs
+C:\Users\caplo\source\repos\LİNQ_GroupJoin_Practice\LİNQ_GroupJoin_Practice\obj\Debug\net8.0\LİNQ_GroupJoin_Practice.csproj.CoreCompileInputs.cache
+C:\Users\caplo\source\repos\LİNQ_GroupJoin_Practice\LİNQ_GroupJoin_Practice\obj\Debug\net8.0\LİNQ_GroupJoin_Practice.dll
+C:\Users\caplo\source\repos\LİNQ_GroupJoin_Practice\LİNQ_GroupJoin_Practice\obj\Debug\net8.0\refint\LİNQ_GroupJoin_Practice.dll
+C:\Users\caplo\source\repos\LİNQ_GroupJoin_Practice\LİNQ_GroupJoin_Practice\obj\Debug\net8.0\LİNQ_GroupJoin_Practice.pdb
+C:\Users\caplo\source\repos\LİNQ_GroupJoin_Practice\LİNQ_GroupJoin_Practice\obj\Debug\net8.0\LİNQ_GroupJoin_Practice.genruntimeconfig.cache
+C:\Users\caplo\source\repos\LİNQ_GroupJoin_Practice\LİNQ_GroupJoin_Practice\obj\Debug\net8.0\ref\LİNQ_GroupJoin_Practice.dll
